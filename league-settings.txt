@@ -1,0 +1,22 @@
+Field Goals Made (FGM)
+2
+Field Goals Attempted (FGA)
+-1
+Free Throws Made (FTM)
+1
+Free Throws Attempted (FTA)
+-1
+Three Pointers Made (3PM)
+1
+Rebounds (REB)
+1
+Assists (AST)
+2
+Steals (STL)
+4
+Blocks (BLK)
+4
+Turnovers (TO)
+-2
+Points (PTS)
+1
